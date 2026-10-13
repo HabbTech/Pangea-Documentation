@@ -1,0 +1,43 @@
+name: Hardware report
+description: Tell us how Pangea works with your radio
+labels: [hardware]
+body:
+  - type: input
+    id: radio
+    attributes:
+      label: Radio
+      placeholder: Heltec V4
+    validations:
+      required: true
+  - type: input
+    id: firmware
+    attributes:
+      label: Firmware version
+      placeholder: 2.6.11
+    validations:
+      required: true
+  - type: dropdown
+    id: result
+    attributes:
+      label: Result
+      options:
+        - Everything worked
+        - Mostly worked
+        - Didn't work
+    validations:
+      required: true
+  - type: checkboxes
+    id: tested
+    attributes:
+      label: What did you try?
+      options:
+        - label: Pairing
+        - label: Private messages
+        - label: Groups
+        - label: Everyone Nearby
+        - label: Profile photo download
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything that didn't work, or tips for others with this radio.
