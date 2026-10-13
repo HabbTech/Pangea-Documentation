@@ -28,7 +28,7 @@ Pangea is a messaging app for LoRa mesh radios. Pair a pocket radio with your ph
 | Platform | Status | Minimum version | Notes |
 |---|---|---|---|
 | iOS / iPadOS | 🟡 In Testing | iOS 17.5 | Primary platform |
-| macOS | 🟡 Testing | macOS 14.5 | Same app as iPhone, built for the Mac |
+| macOS | 🟡 In Testing | macOS 14.5 | Same app as iPhone, built for the Mac |
 | Android | ⚪ In Development | n/a | Not available yet |
 | Windows | ⚪ In Development | n/a | Not available yet |
 
