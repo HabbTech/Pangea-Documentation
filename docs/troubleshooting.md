@@ -81,7 +81,7 @@ Pangea tried to swap keys with that person over the mesh and got no answer. Thei
 
 ## The map is empty
 
-The map shows radios that have shared their location. Many radios don't have GPS or keep location off, so they never appear. Radios that do usually send their location every 15 to 30 minutes. The map is in the **Mesh Map** tab, which needs Expert Mode.
+The map shows radios that have shared their location. Many radios don't have GPS or keep location off, so they never appear. Radios that do usually send their location every 15 to 30 minutes. The map is in the **Map** tab, which needs Expert Mode. See [Map & Waypoints](expert/map.md).
 
 ## Radios show up as "Meshtastic 1a2b"
 

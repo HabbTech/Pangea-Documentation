@@ -9,6 +9,7 @@
 - [Delivery status](#delivery-status)
 - [Deleting and leaving chats](#deleting-and-leaving-chats)
 - [Notifications](#notifications)
+- [Messages in Expert Mode](#messages-in-expert-mode)
 
 ## Chat types
 
@@ -124,3 +125,29 @@ Messages can be up to **200 bytes**. That's about 200 letters, or fewer with emo
 | Group invites | On |
 
 Notifications are cleared when you delete the chat or leave the group they belong to.
+
+## Messages in Expert Mode
+
+With [Expert Mode](settings.md#expert-mode) on, **Chats** becomes **Messages**. Your conversations are the same, but they're sorted by how they travel over the radio:
+
+| List | What's in it |
+|---|---|
+| **Channels** | Everyone Nearby and your groups, listed as the radio's channels |
+| **Direct Messages** | Your private chats, and anyone else your radio can message |
+
+Extra things you can do in a conversation:
+
+| Action | How |
+|---|---|
+| Search | Type in **Find in conversation** at the top. It searches the whole history. |
+| React | Long-press a message → **Tapback** |
+| Reply | Long-press a message → **Reply** |
+| Copy or delete | Long-press a message → **Copy** or **Delete** |
+| See signal details | Long-press a message. The menu shows when it was sent, the SNR and RSSI, how many hops away the sender is, how many radios relayed it, and when it was confirmed. |
+| Load older messages | Scroll to the top and tap **Load Earlier Messages** |
+
+Long-press a channel message to check where it came from. If the sender's radio signed it and your radio checked the signature (firmware 2.8 or newer), the menu shows **Signed · verified**. Unsigned messages aren't a problem. Private messages and messages from older radios are never signed.
+
+Delivery status uses the radio's own wording in Expert Mode. For example, **Not delivered** shows as **Max Retransmission Reached**. **Try Again** works the same way.
+
+Channel settings, like a channel's name, key and MQTT options, are under **Settings → Channels**. See the [Expert Mode guides](expert/README.md).

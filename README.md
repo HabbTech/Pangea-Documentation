@@ -6,7 +6,7 @@
 
 Pangea is a messaging app for LoRa mesh radios. Pair a pocket radio with your phone and send messages, share profiles, and chat in groups over miles of open ground, with no towers, no SIM and no internet.
 
-[![iOS](https://img.shields.io/badge/iOS-In%20Testing-f5a623?logo=apple&logoColor=white)](#platform-status)
+[![iOS](https://img.shields.io/badge/iOS-In%20Alpha-2ea44f?logo=apple&logoColor=white)](#platform-status)
 [![macOS](https://img.shields.io/badge/macOS-Testing-f5a623?logo=apple&logoColor=white)](#platform-status)
 [![Android](https://img.shields.io/badge/Android-In%20Development-8e8e93?logo=android&logoColor=white)](#platform-status)
 [![Windows](https://img.shields.io/badge/Windows-In%20Development-8e8e93?logo=windows&logoColor=white)](#platform-status)
@@ -27,12 +27,12 @@ Pangea is a messaging app for LoRa mesh radios. Pair a pocket radio with your ph
 
 | Platform | Status | Minimum version | Notes |
 |---|---|---|---|
-| iOS / iPadOS | 🟡 In Testing | iOS 17.5 | Primary platform |
+| iOS / iPadOS | 🟢 In Alpha | iOS 17.5 | Primary platform |
 | macOS | 🟡 In Testing | macOS 14.5 | Same app as iPhone, built for the Mac |
 | Android | ⚪ In Development | n/a | Not available yet |
 | Windows | ⚪ In Development | n/a | Not available yet |
 
-🟢 Released 🟡 Testing ⚪ In development
+🟢 In Alpha 🟡 Testing ⚪ In development
 
 ## Features
 
@@ -83,6 +83,7 @@ Full walkthrough: [Getting Started](docs/getting-started.md).
 | [Privacy & Security](docs/privacy-and-security.md) | What's encrypted, what's public, what's sent where |
 | [Supported Hardware](docs/supported-hardware.md) | Radios, firmware, regions |
 | [Settings & Expert Mode](docs/settings.md) | App settings, battery modes, the full radio configuration |
+| [Expert Mode Guides](docs/expert/README.md) | Nodes, map, firmware updates, MQTT, TAK, telemetry, logs and more |
 | [Limits](docs/limits.md) | Message size, group count, photo size and timing |
 | [Troubleshooting](docs/troubleshooting.md) | Messages not delivering, pairing problems, missing chats |
 | [FAQ](docs/faq.md) | Short answers to common questions |
