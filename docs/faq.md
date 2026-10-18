@@ -24,7 +24,7 @@ Yes, but only one can be connected at a time.
 **Can I use Pangea on my Mac and iPhone at the same time?**
 Each needs its own connection to a radio. One radio talks to one device at a time, so use two radios, or switch between them.
 
-**Why don't I see the Nodes, Map or Connect tabs?**
+**Why don't I see the Nodes or Connect tabs?**
 They're part of [Expert Mode](settings.md#expert-mode).
 
 **Why is there a limit of 7 groups?**

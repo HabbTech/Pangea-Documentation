@@ -46,7 +46,7 @@ When iOS Low Power Mode is on, Pangea switches to Expedition until it turns off,
 
 **Settings → App Settings → Expert Mode**
 
-Expert Mode shows everything the radio can do: LoRa settings, security, Bluetooth, device role, network, position, power, MQTT, telemetry, and every firmware module. It also adds the **Connect**, **Nodes** and **Map** tabs, and replaces **Chats** with the full Messages view.
+Expert Mode shows everything the radio can do: LoRa settings, security, Bluetooth, device role, network, position, power, MQTT, telemetry, and every firmware module. It also adds the **Connect** and **Nodes** tabs, adds buttons and waypoints to the **Map**, and replaces **Chats** with the full Messages view.
 
 > [!WARNING]
 > Expert settings write straight to the radio. A wrong LoRa or channel setting can cut your radio off from everyone else. Leave Expert Mode off unless you know what a setting does.
@@ -58,7 +58,8 @@ What's different with Expert Mode on:
 | | Standard | Expert Mode |
 |---|---|---|
 | Messages tab | **Chats** | **Messages** (channels and direct messages) |
-| Extra tabs | None | Connect, Nodes, Map |
+| Tabs | Map, Chats, Settings | Messages, Nodes, Map, Settings, Connect |
+| Map | Radios and their profiles | Filters, map options, waypoints, node details |
 | Radio settings | The few most people need | All of them |
 | Pairing code | Turned off after first pairing | Left as you set it |
 | Radio-side channel mute | Ignored | Honored |

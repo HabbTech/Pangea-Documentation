@@ -1,6 +1,6 @@
 # Map & Waypoints
 
-The **Map** tab shows every radio that has shared its location. It's added to the tab bar when Expert Mode is on.
+The **Map** tab shows every radio that has shared its location. Expert Mode adds the buttons, filters, waypoints and node details below. For the basics, see [Map](../map.md).
 
 - [Reading the map](#reading-the-map)
 - [Map buttons](#map-buttons)

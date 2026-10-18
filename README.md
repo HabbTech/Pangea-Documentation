@@ -14,6 +14,7 @@ Pangea is a messaging app for LoRa mesh radios. Pair a pocket radio with your ph
 
 [Getting Started](docs/getting-started.md) ·
 [Messaging](docs/messaging.md) ·
+[Map](docs/map.md) ·
 [Privacy](docs/privacy-and-security.md) ·
 [Hardware](docs/supported-hardware.md) ·
 [Troubleshooting](docs/troubleshooting.md) ·
@@ -79,6 +80,7 @@ Full walkthrough: [Getting Started](docs/getting-started.md).
 |---|---|
 | [Getting Started](docs/getting-started.md) | Install, pair a radio, set up your profile |
 | [Messaging](docs/messaging.md) | Codes, private chats, groups, Everyone Nearby, mentions, delivery status |
+| [Map](docs/map.md) | Seeing radios on the map and opening their profiles |
 | [Contacts & Profiles](docs/contacts-and-profiles.md) | Photos, nicknames, saving contacts |
 | [Privacy & Security](docs/privacy-and-security.md) | What's encrypted, what's public, what's sent where |
 | [Supported Hardware](docs/supported-hardware.md) | Radios, firmware, regions |
