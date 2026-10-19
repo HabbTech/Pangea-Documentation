@@ -14,7 +14,7 @@ The **Map** tab shows radios that have shared their location, along with your ow
 - Your own location is the blue dot.
 - Pinch to zoom and drag to move around. The map opens where you last left it.
 - The button in the bottom-right corner switches between **Standard**, **Hybrid** and **Satellite** maps.
-- With VoiceOver on, each radio reads as the person's name. A group of radios reads as how many are there; double-tap to zoom in.
+- With VoiceOver on, each radio reads as the person's name. A group reads as how many are there; double-tap to zoom in, or to list them when they're in the same spot.
 
 ## Seeing who's there
 

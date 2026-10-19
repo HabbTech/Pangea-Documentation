@@ -72,11 +72,13 @@ To see who you can reach directly, turn on **Via Lora** and turn off **Via Mqtt*
 Under **Offline Maps** in Map Options:
 
 - Tap **Offline Maps** to download an area. Pick it on the map and download it while you have internet.
-- **Offline Tiles** shows your downloaded maps when you have no connection. They also turn on by themselves when your phone is offline.
+- **Offline Tiles** draws your downloaded maps over the map even when you have internet. Without a connection they show by themselves.
 - **Hillshade** adds shaded terrain over downloaded areas.
 - **Contour Lines** adds elevation lines over downloaded areas.
 
 Download offline maps before you head out. Without internet, areas you didn't download show blank.
+
+Traffic and Points of Interest only apply in Expert Mode. With it off, Hybrid and Satellite show just the imagery, and if Offline Tiles is on, your downloaded maps still show on the Standard style. Downloaded maps show on any style when your phone has no connection at all.
 
 ## Waypoints
 
