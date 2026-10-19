@@ -13,6 +13,8 @@ The **Map** tab shows radios that have shared their location, along with your ow
 - Radios that only share an approximate location get a see-through circle showing the area they could be in.
 - Your own location is the blue dot.
 - Pinch to zoom and drag to move around. The map opens where you last left it.
+- The button in the bottom-right corner switches between **Standard**, **Hybrid** and **Satellite** maps.
+- With VoiceOver on, each radio reads as the person's name. A group of radios reads as how many are there; double-tap to zoom in.
 
 ## Seeing who's there
 
@@ -36,4 +38,4 @@ If no radio has shared a location yet, the map says so at the top.
 
 ## Map in Expert Mode
 
-Expert Mode adds buttons along the bottom of the map: filters, map options like satellite view and offline maps, a legend, and coverage estimates. It also shows waypoints and lets you drop them, shows trace routes, and opens full node details when you tap a radio. While the map is open in Expert Mode, the screen stays on. See [Map & Waypoints](expert/map.md).
+Expert Mode adds more buttons along the bottom of the map: filters, map options like offline maps and terrain, a legend, and coverage estimates. It also shows waypoints and lets you drop them, shows trace routes, and opens full node details when you tap a radio. While the map is open in Expert Mode, the screen stays on. See [Map & Waypoints](expert/map.md).

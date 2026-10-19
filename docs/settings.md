@@ -13,7 +13,6 @@
 | Your profile | **Settings** → your name | Name, emoji, color, photo |
 | Your code | **Settings** or **New Message** | Copy, share or show your QR code |
 | My Radio | **Settings** | Connected radio, **Pair a Different Radio**, **Forget This Radio** |
-| Display | **Settings → Display** | Radio screen options |
 | App Settings | **Settings → App Settings** | Appearance, battery mode, Expert Mode, clearing old radios |
 | Routes | **Settings → Routes** | Routes you've saved or recorded |
 | Route Recorder | **Settings → Route Recorder** | Record where you go |
@@ -60,7 +59,7 @@ What's different with Expert Mode on:
 | Messages tab | **Chats** | **Messages** (channels and direct messages) |
 | Tabs | Map, Chats, Settings | Messages, Nodes, Map, Settings, Connect |
 | Map | Radios and their profiles | Filters, map options, waypoints, node details |
-| Radio settings | The few most people need | All of them |
+| Radio settings | None. Pangea sets your radio up and names it from your profile | All of them |
 | Pairing code | Turned off after first pairing | Left as you set it |
 | Radio-side channel mute | Ignored | Honored |
 | Connection indicator | Banner at the bottom | Top-right of each screen |
